@@ -1,0 +1,16 @@
+{
+  "name": "jd-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chen-jia-hao/jd-task.git",
+  "author": "chen-jia-hao <chen-jia-hao@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "download": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
